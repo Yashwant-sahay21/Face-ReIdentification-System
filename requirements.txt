@@ -1,0 +1,12 @@
+
+torch
+torchvision
+facenet-pytorch
+opencv-python==4.10.0.84
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+Pillow
+scipy
